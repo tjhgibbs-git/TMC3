@@ -1,0 +1,6 @@
+execute if score $prng prngone matches 6.. run summon zombie ~ ~ ~ {Health:14f,IsBaby:0b,ArmorItems:[{id:"minecraft:leather_boots",Count:1b,tag:{display:{color:16719647}}},{id:"minecraft:leather_leggings",Count:1b,tag:{display:{color:16719647}}},{id:"minecraft:leather_chestplate",Count:1b,tag:{display:{color:16719647}}},{id:"minecraft:red_mushroom_block",Count:1b}],ArmorDropChances:[-327.670F,-327.670F,-327.670F,-327.670F],Attributes:[{Name:generic.movement_speed,Base:0.23},{Name:generic.attack_damage,Base:4.0}]}
+execute if score $prng prngone matches 0..5 run summon zombie ~ ~ ~ {Health:10f,IsBaby:1b,ArmorItems:[{id:"minecraft:leather_boots",Count:1b,tag:{display:{color:13738045}}},{id:"minecraft:leather_leggings",Count:1b,tag:{display:{color:13738045}}},{id:"minecraft:leather_chestplate",Count:1b,tag:{display:{color:13738045}}},{id:"minecraft:brown_mushroom_block",Count:1b}],ArmorDropChances:[-327.670F,-327.670F,-327.670F,-327.670F],ActiveEffects:[{Id:2b,Amplifier:1b,Duration:10000}],Attributes:[{Name:generic.movement_speed,Base:0.17},{Name:generic.attack_damage,Base:4.0}]}
+
+
+tag @s add Spawned
+tp @s ~ -200 ~

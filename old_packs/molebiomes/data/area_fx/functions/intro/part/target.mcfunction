@@ -1,0 +1,2 @@
+execute as 000001a4-0000-0045-0000-000000000001 facing entity @s eyes run function area_fx:intro/part/raycast
+execute as 000001a4-0000-0045-0000-000000000002 facing entity @s eyes run function area_fx:intro/part/raycast

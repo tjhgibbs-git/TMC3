@@ -1,0 +1,30 @@
+{
+  "surface_builder": "minecraft:desert",
+  "depth": 0.4,
+  "scale": 0,
+  "temperature": 1,
+  "downfall": 0,
+  "precipitation": "none",
+  "category": "jungle",
+  "effects": {
+    "sky_color": 5828474,
+    "fog_color": 13106116,
+    "water_color": 1351313,
+    "water_fog_color": 1351313,
+    "grass_color": 44544,
+    "foliage_color": 44544,
+    "ambient_sound": "minecraft:ambient.nether_wastes.loop"
+  },
+  "starts": [],
+  "spawners": {
+    "water_ambient": [],
+    "ambient": [],
+    "misc": [],
+    "water_creature": [],
+    "creature": [],
+    "monster": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": []
+}

@@ -1,0 +1,1 @@
+scoreboard players set $thunder thundermole 0

@@ -1,0 +1,1 @@
+execute as @a at @s run playsound block.bell.resonate ambient @s ~ ~2 ~ 0.9 0.8

@@ -1,0 +1,1 @@
+function deathcollect:items/less_motion

@@ -1,0 +1,2 @@
+summon sheep ~4 ~500 ~ {NoGravity:1b,Silent:1b,UUID:[I;69,69,69,420],NoAI:1b,Health:1000f,Sheared:1b,Tags:["tpsheep"],ActiveEffects:[{Id:10b,Amplifier:10b,Duration:100000,ShowParticles:0b},{Id:14b,Amplifier:0b,Duration:100000,ShowParticles:0b}],Attributes:[{Name:generic.max_health,Base:1000}]}
+execute as 00000045-0000-0045-0000-0045000001a4 at @s run tp ~ ~-498.8 ~

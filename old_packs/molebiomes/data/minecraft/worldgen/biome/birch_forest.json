@@ -1,0 +1,41 @@
+{
+  "surface_builder": "minecraft:desert",
+  "depth": 0.4,
+  "scale": 0,
+  "temperature": 1,
+  "downfall": 0,
+  "precipitation": "none",
+  "category": "jungle",
+  "effects": {
+    "sky_color": 2984172,
+    "fog_color": 16760831,
+    "water_color": 1011169,
+    "water_fog_color": 2517924,
+    "grass_color": 7722580,
+    "foliage_color": 44544
+  },
+  "starts": [],
+  "spawners": {
+    "water_ambient": [],
+    "ambient": [],
+    "misc": [],
+    "water_creature": [],
+    "creature": [],
+    "monster": [
+      {
+        "type": "minecraft:creeper",
+        "weight": 100,
+        "minCount": 1,
+        "maxCount": 3
+      }
+    ]
+  },
+  "spawn_costs": {
+    "minecraft:creeper": {
+      "energy_budget": 0.15,
+      "charge": 0.5
+    }
+  },
+  "carvers": {},
+  "features": []
+}

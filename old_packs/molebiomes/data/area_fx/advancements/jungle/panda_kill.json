@@ -1,0 +1,16 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:panda",
+            "nbt": "{Tags:[\"panda_squad\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "area_fx:jungle/pandas/kill"
+    }
+  }

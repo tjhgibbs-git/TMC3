@@ -1,0 +1,6 @@
+summon lightning_bolt ~ ~ ~
+summon creeper ~ ~ ~ {powered:1b,Motion:[0.1,1.1,0.0],Tags:["Spawned"],ActiveEffects:[{Id:11b,Amplifier:5b,Duration:10},{Id:12b,Amplifier:0b,Duration:40}]}
+summon drowned ~ ~ ~ {IsBaby:0b,Motion:[0.4,0.7,0.1],ActiveEffects:[{Id:12b,Amplifier:0b,Duration:180,ShowParticles:0b}],ArmorItems:[{id:"minecraft:leather_boots",Count:1b,tag:{display:{color:0}}},{id:"minecraft:leather_leggings",Count:1b,tag:{display:{color:3242485}}},{id:"minecraft:leather_chestplate",Count:1b,tag:{display:{color:3242485}}},{id:"minecraft:blue_ice",Count:1b}],ArmorDropChances:[-327.670F,-327.670F,-327.670F,-327.670F],Attributes:[{Name:generic.movement_speed,Base:0.28},{Name:generic.attack_damage,Base:10}]}
+summon drowned ~ ~ ~ {IsBaby:0b,Motion:[0.1,0.7,-0.6],ActiveEffects:[{Id:12b,Amplifier:0b,Duration:180,ShowParticles:0b}],ArmorItems:[{id:"minecraft:leather_boots",Count:1b,tag:{display:{color:0}}},{id:"minecraft:leather_leggings",Count:1b,tag:{display:{color:3242485}}},{id:"minecraft:leather_chestplate",Count:1b,tag:{display:{color:3242485}}},{id:"minecraft:blue_ice",Count:1b}],ArmorDropChances:[-327.670F,-327.670F,-327.670F,-327.670F],Attributes:[{Name:generic.movement_speed,Base:0.28},{Name:generic.attack_damage,Base:10}]}
+
+scoreboard players add $prng prngtwo 21

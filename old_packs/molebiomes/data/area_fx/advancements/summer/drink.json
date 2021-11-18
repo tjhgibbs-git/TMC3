@@ -1,0 +1,20 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:potion"
+            ],
+            "potion": "minecraft:water",
+            "nbt": "{cooler:1}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "area_fx:summer/cooler"
+    }
+  }
+  

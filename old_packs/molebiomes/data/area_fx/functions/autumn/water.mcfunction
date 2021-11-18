@@ -1,0 +1,23 @@
+# execute positioned x y z if entity @a[distance=15..25] run 
+execute positioned -770 80 -1462 if score $prng prngthree matches 0..30 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -788 80 -1507 if score $prng prngthree matches 31..60 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -806 80 -1540 if score $prng prngthree matches 61..90 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -819 80 -1587 if score $prng prngthree matches 0..30 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -815 80 -1574 if score $prng prngthree matches 31..60 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -795 80 -1621 if score $prng prngthree matches 61..90 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -718 80 -1630 if score $prng prngthree matches 0..30 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -694 80 -1629 if score $prng prngthree matches 31..60 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -669 80 -1601 if score $prng prngthree matches 61..90 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -640 80 -1597 if score $prng prngthree matches 0..30 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -623 80 -1551 if score $prng prngthree matches 31..60 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -657 80 -1477 if score $prng prngthree matches 61..90 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -709 80 -1438 if score $prng prngthree matches 0..30 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -741 80 -1435 if score $prng prngthree matches 31..60 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -818 80 -1449 if score $prng prngthree matches 61..90 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -840 80 -1522 if score $prng prngthree matches 0..30 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -754 80 -1578 if score $prng prngthree matches 31..60 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -711 80 -1539 if score $prng prngthree matches 61..90 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -702 80 -1509 if score $prng prngthree matches 0..30 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -728 80 -1502 if score $prng prngthree matches 31..60 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+execute positioned -756 80 -1499 if score $prng prngthree matches 61..90 if entity @a[distance=11..16] run function area_fx:autumn/water/mobdist
+

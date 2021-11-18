@@ -1,0 +1,1 @@
+scoreboard players set @s ui_track 1

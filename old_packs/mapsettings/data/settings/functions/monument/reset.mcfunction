@@ -1,0 +1,2 @@
+scoreboard objectives remove discs_placed
+scoreboard objectives add discs_placed dummy

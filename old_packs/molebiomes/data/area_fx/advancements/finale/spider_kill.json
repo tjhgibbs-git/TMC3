@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:cave_spider",
+          "nbt": "{Tags:[\"venom\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "area_fx:finale/spiders/venom_clear"
+  }
+}
