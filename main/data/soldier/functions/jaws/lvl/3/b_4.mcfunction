@@ -1,0 +1,1 @@
+playsound minecraft:entity.dragon_fireball.explode hostile @a ~ ~ ~ 1 2

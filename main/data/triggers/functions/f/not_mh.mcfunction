@@ -12,3 +12,4 @@ item replace entity @s weapon.offhand from block 0 56 0 container.0
 
 # empty barrel
 data modify block 0 56 0 Items set value []
+

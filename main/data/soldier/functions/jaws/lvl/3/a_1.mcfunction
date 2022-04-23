@@ -1,0 +1,1 @@
+execute as @e[type=evoker_fangs,tag=sol.fang.wthr] at @s run function soldier:jaws/lvl/3/a_2

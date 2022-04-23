@@ -1,0 +1,1 @@
+execute positioned ^ ^ ^7 run summon evoker_fangs ~ ~ ~

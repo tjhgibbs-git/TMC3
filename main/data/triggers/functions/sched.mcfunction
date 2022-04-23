@@ -1,4 +1,4 @@
-# runs function at all players with advancements (score acts as a proxy - potentially faster but more importantly easier syntax)
+# runs function at all players with advancements (score acts as a proxy - marginally easier syntax)
 # doing this instead of in the reward function avoids some odd behaviour particularly around offhands
 # also avoids running things multiple times in a tick
 
@@ -10,3 +10,7 @@ execute as @a[scores={ui_track=1}] at @s run function triggers:rc/clicked
 
 # check if player is pressing shift
 execute as @a if predicate triggers:is_shifting run say shift
+
+# check if player is swimming
+
+# check if player is sprinting
