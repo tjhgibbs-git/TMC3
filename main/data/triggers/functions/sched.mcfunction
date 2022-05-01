@@ -2,8 +2,11 @@
 # doing this instead of in the reward function avoids some odd behaviour particularly around offhands
 # also avoids running things multiple times in a tick
 
+# save player's mainhand item to storage
+
 # check if player pressed F
 execute as @a[scores={ic_track=1}] at @s run function triggers:f/press
+
 
 # check if player has right clicked
 execute as @a[scores={ui_track=1}] at @s run function triggers:rc/clicked
