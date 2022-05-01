@@ -5,6 +5,7 @@
       "minecraft:spectral_arrow",
       "minecraft:trident",
       "minecraft:potion",
-      "minecraft:area_effect_cloud"
+      "minecraft:area_effect_cloud",
+      "minecraft:fireball"
     ]
   }

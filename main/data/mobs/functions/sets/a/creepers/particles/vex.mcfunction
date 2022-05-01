@@ -1,0 +1,1 @@
+execute positioned ~ ~0.5 ~ run particle minecraft:soul ~ ~ ~ 0.4 0.7 0.4 0 1

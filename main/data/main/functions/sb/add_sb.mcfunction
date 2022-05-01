@@ -10,14 +10,26 @@ scoreboard objectives add ui_track dummy
 # initiate scoreboard for class selector
 scoreboard objectives add class_sel dummy
 
-# initiate scoreboards for mob abilities
+
+
+
+#mob abilities
+# initiate scores for summoned mob abilities
 scoreboard objectives add mobs.summ.tri dummy
+
+#initiate scores for active mob abilities 
+scoreboard objectives add mobs.act.creep dummy
+scoreboard objectives add mobs.summ.aec.creep dummy
+
+
 
 # initiate scoreboards for soldier class abilities
 scoreboard objectives add sol.rc.cd dummy
 scoreboard objectives add sol.rc.lvl dummy
 scoreboard objectives add sol.rc.lvl.2 dummy
 scoreboard objectives add sol.rc.lvl.3 dummy
+
+
 
 # initiate scoreboards for soldier items
 scoreboard objectives add item.mh.sol.swaxe dummy
