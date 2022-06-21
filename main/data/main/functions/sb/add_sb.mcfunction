@@ -28,8 +28,10 @@ scoreboard objectives add sol.rc.cd dummy
 scoreboard objectives add sol.rc.lvl dummy
 scoreboard objectives add sol.rc.lvl.2 dummy
 scoreboard objectives add sol.rc.lvl.3 dummy
-
-
+scoreboard objectives add sol.rc.lvl.4 dummy
+scoreboard objectives add sol.rc.lvl.5 dummy
+scoreboard objectives add sol.rc.lvl.6 dummy
+scoreboard objectives add sol.rc.tags dummy
 
 # initiate scoreboards for soldier items
 scoreboard objectives add item.mh.sol.swaxe dummy

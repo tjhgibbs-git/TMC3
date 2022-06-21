@@ -1,0 +1,1 @@
+scoreboard players remove @s sol.rc.cd 20

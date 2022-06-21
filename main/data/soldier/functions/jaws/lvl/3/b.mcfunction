@@ -1,4 +1,4 @@
-execute positioned ^ ^ ^7 as @e[type=evoker_fangs,distance=..5] at @s as @e[type=creeper,distance=..1.5] at @s run function soldier:jaws/lvl/3/b_1
+execute positioned ^ ^ ^7 as @e[type=evoker_fangs,distance=..5] at @s as @e[type=#mobs:hostile,distance=..1.5] at @s run function soldier:jaws/lvl/3/b_1
 say option b!
 
 # schedule function to return AI

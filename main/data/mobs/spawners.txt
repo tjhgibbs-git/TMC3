@@ -8,5 +8,5 @@ setblock ~ ~ ~ spawner{SpawnCount:3,SpawnRange:4,Delay:0,MinSpawnDelay:500,MaxSp
 /setblock ~ ~ ~ spawner{SpawnCount:2,SpawnRange:5,Delay:0,MinSpawnDelay:500,MaxSpawnDelay:900,MaxNearbyEntities:2,RequiredPlayerRange:20,SpawnData:{entity:{id:"minecraft:creeper",Health:25f,powered:1b,Tags:["tmc.spawned","mobs.a","mobs.ability","mobs.a.creeper"],ActiveEffects:[{Id:17b,Amplifier:0b,Duration:1000000,ShowParticles:0b},{Id:26b,Amplifier:76b,Duration:1000000,ShowParticles:0b}],Attributes:[{Name:generic.max_health,Base:25}]}}} replace
 
 
-#witches that throw creepers
+# witches that throw creepers
 /setblock ~ ~ ~ spawner{SpawnCount:3,SpawnRange:4,Delay:0,MinSpawnDelay:500,MaxSpawnDelay:700,MaxNearbyEntities:3,RequiredPlayerRange:16,SpawnData:{entity:{id:"minecraft:witch",Tags:["mobs.ability","mobs.a","mobs.a.witch.creeper"]}}} replace
